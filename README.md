@@ -1,0 +1,2 @@
+# firstrepository
+repository pertama
